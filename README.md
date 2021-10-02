@@ -100,7 +100,7 @@ this larger namespace.  But, we don't want to be so general that the spec become
 
 ## Element List
 
-### <u>Phase 1 (Closed on 11/15/20)</u>
+### <u>Phase 1 (Closed on 2020-11-15)</u>
 
 <br>
 
@@ -115,7 +115,7 @@ full implementation details.
 
 <br>
 
-### <u>Phase 2 (Closed on 1/31/21)</u>
+### <u>Phase 2 (Closed on 2021-01-31)</u>
 
 <br>
 
@@ -130,7 +130,7 @@ full implementation details.
 <br>
 
 
-### <u>Phase 3 (Closed on 6/1/21)</u>
+### <u>Phase 3 (Closed on 2021-06-01)</u>
 
 <br>
 
@@ -147,7 +147,7 @@ full implementation details.
 <br>
 
 
-## <u>Phase 4 (Closes on 12/1/2021)</u>
+### <u>Phase 4 (Closes on 2021-12-01)</u>
 
 The following tags should be considered purely as work in progress proposals.  They should not be relied upon or implemented except for testing purposes and experimentation.
 
